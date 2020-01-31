@@ -3,7 +3,7 @@
 You have to recode a small pipe-like program, working like this:
 
 ```shell
-$ mypipe --in fortune --out cowsay
+$ mypipe --in cmd1 arg1 --out cmd2 arg2
 ```
 
 ```
